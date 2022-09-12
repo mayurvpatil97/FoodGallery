@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodGallery/static/css/main.29cd549e.css",
+    "main.js": "/FoodGallery/static/js/main.6375c4a2.js",
+    "static/js/787.83e94846.chunk.js": "/FoodGallery/static/js/787.83e94846.chunk.js",
+    "index.html": "/FoodGallery/index.html",
+    "main.29cd549e.css.map": "/FoodGallery/static/css/main.29cd549e.css.map",
+    "main.6375c4a2.js.map": "/FoodGallery/static/js/main.6375c4a2.js.map",
+    "787.83e94846.chunk.js.map": "/FoodGallery/static/js/787.83e94846.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.6375c4a2.js"
+  ]
+}
